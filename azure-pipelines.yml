@@ -20,7 +20,7 @@ resources:
 trigger:
 - master
 
-pool: Default
+pool: Demo123
   
 steps:
 - checkout: self
