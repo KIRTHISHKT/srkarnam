@@ -8,16 +8,12 @@ resources:
   repositories:
   - repository: Test
     type: github
-    endpoint: "srkaranam"
-    name: srkaranam/Test
+    endpoint: "KIRTHISHKT"
+    name: kirthishkt/srkaranam
   - repository: Test2
     type: github
-    endpoint: "srkaranam"
-    name: srkaranam/Test2
-  - repository: Test3
-    type: github
-    endpoint: "srkaranam"
-    name: srkaranam/Test3
+    endpoint: "KIRTHISHKT"
+    name: kirthishkt/srkaranam1
     
     
 
@@ -30,7 +26,6 @@ steps:
 - checkout: self
 - checkout: Test
 - checkout: Test2
-- checkout: Test3
 
 
 
