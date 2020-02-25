@@ -9,7 +9,7 @@ resources:
   - repository: Test
     type: github
     endpoint: "KIRTHISHKT"
-    name: kirthishkt/srkaranam
+    name: kirthishkt/srkarnam
   - repository: Test2
     type: github
     endpoint: "KIRTHISHKT"
