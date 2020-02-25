@@ -20,7 +20,8 @@ resources:
 trigger:
 - master
 
-pool: Demo123
+pool:
+  vmImage: 'Ubuntu-16.04'
   
 steps:
 - checkout: self
