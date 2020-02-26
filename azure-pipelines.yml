@@ -6,10 +6,6 @@
 
 resources:
   repositories:
-  - repository: Test
-    type: github
-    endpoint: "KIRTHISHKT"
-    name: kirthishkt/srkaranam1
   - repository: Test2
     type: github
     endpoint: "KIRTHISHKT"
@@ -25,8 +21,7 @@ pool:
   
 steps:
 - checkout: self
-- checkout: Test
-- checkout: Test2
+
 
 
 
