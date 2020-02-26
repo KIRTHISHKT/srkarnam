@@ -8,7 +8,7 @@ resources:
   repositories:
   - repository: Test2
     type: github
-    endpoint: "KIRTHISHKT"
+    endpoint: "github.com_KIRTHISHKT"
     name: kirthishkt/srkarnam
     
     
