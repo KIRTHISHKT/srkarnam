@@ -9,11 +9,11 @@ resources:
   - repository: Test
     type: github
     endpoint: "KIRTHISHKT"
-    name: kirthishkt/srkarnam
+    name: kirthishkt/srkaranam1
   - repository: Test2
     type: github
     endpoint: "KIRTHISHKT"
-    name: kirthishkt/srkaranam1
+    name: kirthishkt/srkarnam
     
     
 
